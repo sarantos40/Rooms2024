@@ -2,11 +2,14 @@
 
 *Rooms* από τους **Ισορροπιστές**
 
-Έργο πάνω σε περιβαντολογικά ζητήματα
+Έργο πάνω σε Τεχνητή Νοημοσύνη σε περιβαντολογικά ζητήματα
 
 Στον 6ο ΠΑΝΕΛΛΗΝΙΟ ΔΙΑΓΩΝΙΣΜΟ ΑΝΟΙΧΤΩΝ ΤΕΧΝΟΛΟΓΙΩΝ ΣΤΗΝ ΕΚΠΑΙΔΕΥΣΗ
 
 ---
+
+Αποθετήριο github:
+git@github.com:sarantos40/Rooms2024.git
 
 ## Θερμοκρασίες δωματίων
 
@@ -72,3 +75,16 @@
 Ένα raspberry pi θα λειτουργεί ως το κεντρικό σύστημα υπολογισμού
 
 Ένα microbit (με zip halo) θα δείχνει / επεξηγεί την κατάσταση και τις ενέργειες του συστήματος
+
+## Λίστα Υλικών
+
+Εξάρτημα | Ποσότητα
+--- | ---
+BBC Micro:bit V2 Board (Bulk) | 4
+Compact All-In-One Robotics Board for BBC micro:bit | 2
+Βηματικός Κινητήρας | 2
+Waveshare Driver Breakout for micro:bit | 1
+servo motor + mount | 1
+ZIP Halo for the BBC micro:bit | 1
+Raspberry Pi 5 - 8GB | 1
+Raspberry Pi 5 Case White/Red | 1
